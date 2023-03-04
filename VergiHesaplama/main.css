@@ -1,0 +1,43 @@
+body{
+    background-image: url(car.jpg);
+}
+
+
+form {
+
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 1px; /* Yan yana elemanlar arasındaki boşluğu belirler */
+    border: thin solid black;
+    font-size: 30px;
+    width: 70%;
+    margin-left: 230px;
+  }
+  input[type="button"] {
+    grid-column: 1 / span 2; /* Butonun iki sütunu kaplaması için */
+    font-size: 20px;
+  }
+ 
+  h1{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+  form option{
+    font-size: 20px;
+  }
+
+  form .secenek{
+   margin-top: 40px;
+  }
+
+  h5#sonuc {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    font-size: 30px;
+    border: none; /* Sınırı kaldır */
+}
