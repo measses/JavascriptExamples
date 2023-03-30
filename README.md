@@ -11,3 +11,6 @@ FAIZ HESAPLAMA
 
 TO DO LIST
 ![2023-03-05-15-55-40_Trim](https://user-images.githubusercontent.com/67739721/222961769-c66a1f7d-baac-4c09-bf52-9663eacd7dd1.gif)
+
+LAMBA AC-KAPA 
+![2023-03-30-18-17-12_Trim](https://user-images.githubusercontent.com/67739721/228884406-e9ac4f1b-649d-49ac-8bbd-56c7a060ebf1.gif)
